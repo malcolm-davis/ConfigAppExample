@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SampleConfigApp": {
+      "commandName": "Project",
+      "commandLineArgs": "VerifyOnly"
+    }
+  }
+}
